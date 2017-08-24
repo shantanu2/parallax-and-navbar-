@@ -1,0 +1,64 @@
+body {
+    color: #fff;
+    line-height: 1.5;
+    background-color:#fff;
+    margin: 0;
+    background-image: url(../images/mbr-1.jpg);
+    text-align: center;
+    /* background-color: #8e3a79;*/
+}
+
+.sunny {
+    width: 100%;
+    height: 250px;
+    border: 1px dotted black;
+}
+
+.sunny1 {
+    width: 100%;
+    height: 250px;
+    border: 1px dotted black;
+    color: #fff;
+    
+}
+hr{
+    border:1px solid #a7abb1;
+}
+.fa{
+    margin-top: 5px;
+}
+.navbar {
+    margin-top: 30px;
+    margin-bottom: 0!important;
+}
+
+ul#example {
+    list-style: none;
+    margin: 50px 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+
+ul#example li {
+    display: inline-block;
+}
+
+ul#example li span {
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 80px;
+}
+
+ul#example li.seperator {
+    font-size: 80px;
+    line-height: 70px;
+    vertical-align: top;
+}
+
+ul#example li p {
+    color: #fff;
+    font-size: 25px;
+}
+
+

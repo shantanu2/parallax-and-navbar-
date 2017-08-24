@@ -1,0 +1,64 @@
+#mainnav{
+        border-color: transparent;
+    background-color: transparent;
+}
+body{
+       background: url(https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png),linear-gradient(to left,#7b4397,#dc2430);
+    background-color: #fff;
+        
+}
+#mainnav .navbar-brand {
+    color: #fdcc52;
+    font-family: Catamaran,Helvetica,Arial,sans-serif;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:rgba(255,255,255,.7);
+}
+#mainnav .navbar-brand:hover{
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color:#fff;
+}
+#sunny{
+        margin-bottom: 3rem!important;
+    color: #fff;
+    line-height: 1.1;
+    font-weight: 100;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.btn-xl {
+    font-size: 11px;
+    padding: 15px 45px;
+}
+.btn {
+    border-radius: 300px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.btn-outline {
+    color: #fff;
+    border: 1px solid;
+    border-color: #fff;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    line-height: 1.25;
+    transition: all .15s ease-in-out;
+}
+.btn-outline:hover {
+    color: #fff;
+    border: 1px solid;
+    border-color: #fff;
+    background-color: #fdcc52;
+}

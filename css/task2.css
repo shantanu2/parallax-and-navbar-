@@ -1,0 +1,56 @@
+body{
+	
+	background-image: url(../images/pexels-photo-47224.jpeg);
+	/*background-size:contain;*/
+	background-size:102% 135%;
+	opacity: 0.5;
+}
+
+
+
+#gabbar{
+	border:1px solid;
+	height: 450px;
+	width:290px;
+	margin: auto;
+	margin-top: 110px;
+	background-color: rgba(0,0,0,.53);
+}
+#dhoni{
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+}
+/*.form{
+	margin:auto;
+}*/
+#gabbar input[type=text], input[type=password] {
+height: 44px;
+  font-size: 16px;	
+	 width: 80%;
+  margin-bottom: 10px;
+  -webkit-appearance: none;
+  background: #fff;
+  border: 1px solid #d9d9d9; 
+     box-sizing: border-box;
+  -moz-box-sizing: border-box;
+	
+	
+	
+}
+#gabbar input[type=submit] {
+ position: relative;
+  margin-bottom: 10px;
+    width: 46%;
+  height: 37px;	
+}
+#john{
+	margin-top: 70%;
+	margin-left: 10%;
+}
+#john1{
+	margin-left: 10%;
+}
+#john2{
+	margin-left: 27%;
+}

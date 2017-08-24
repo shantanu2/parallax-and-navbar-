@@ -1,0 +1,356 @@
+/*================================================================================
+	Item Name: Kode
+	Description: Premium Bootstrap Admin Template
+	Author: Egemen Kapusuz
+	Author URL: http://www.themeforest.net/user/egemem
+================================================================================*/
+
+
+/* =================================================================================
+smaller than 1280
+================================================================================= */
+@media screen and (max-width: 1200px) {
+
+}
+
+/* =================================================================================
+bigger than 1200
+================================================================================= */
+@media (min-width: 1200px) {
+	.container {
+		width: 970px;
+	}
+	
+	.header-preview {
+		width: 1170px;
+	}
+
+}
+
+/* =================================================================================
+smaller than 1024
+================================================================================= */
+@media screen and (max-width: 970px) {
+	
+}
+
+/* =================================================================================
+bigger than 1024
+================================================================================= */
+@media screen and (min-width: 970px) {
+
+	
+}
+
+/* =================================================================================
+smaller than 760
+================================================================================= */
+@media screen and (max-width: 760px) {
+	
+	.header .header-menu span{
+		display: none;
+	}
+	.header .header-menu .btn{
+		margin-left: 0px;
+		padding: 7px 15px 7px 15px;
+	}
+	.header .header-menu .btn i{
+		margin-right: 0px;
+	}	
+	.intro .search-form {
+		width: 100%;
+		max-width: 350px;
+	}	
+	.bookmakers {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.sites {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.best-choice {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.glossary {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.guide {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.bookmakers .btn{
+		min-width: 150px;
+		margin-bottom: 20px;
+	}
+	.glossary .btn{
+		min-width: 150px;
+		margin-bottom: 10px;
+	}
+	.guide .btn{
+		min-width: 150px;
+		margin-bottom: 20px;
+	}		
+	.sites .navigation .next {
+	    right: 10px;
+	}
+	.sites .navigation .prev {
+		left: 10px;
+	}	
+	.glossary img {
+		margin: 0px;
+	}	
+	.bookmaker-single-header {
+		padding: 40px 0;
+	}
+	.bookmaker-single-header img {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+	.bookmaker-single-header .btn {
+		width: 100%;
+	}
+	.bookmaker-single-rating {
+		padding: 40px 0;
+	}
+	.bookmaker-single-rating .btn {
+		width: 100%;
+	}
+	.bookmaker-single-rating .rating ul li {
+		width: 50%;
+		font-size: 11px;
+	}
+	.bookmaker-single-slider {
+		padding: 40px 0;
+	}
+	.bookmaker-single-slider p{
+		padding-bottom: 20px;
+	}
+	
+	.bookmaker-single-slider .slider-wrapper .next {
+		right: 10px;
+	}	
+	.bookmaker-single-slider .slider-wrapper .prev {
+		left: 10px;
+	}
+	.content .btn {
+		margin-top: 10px;
+	}
+	.content .bookmaker .checkbox {
+		display: none;
+	}
+	.content .site .site-logo img{
+		width: 100%;
+	}	
+	.content .article img{
+		width: 100%;
+	}
+	.content .review .review-footer ul li {
+		width: 50%;
+		font-size: 11px;
+	}
+	.scrollup {
+	    display: none;
+	}
+	
+	.fixed {
+		position: relative;
+	}
+
+}
+
+/* =================================================================================
+smaller than 428
+================================================================================= */
+@media screen and (max-width: 428px) {
+	.cus-col-mobile,
+	.ov-item,
+	.comp-item{
+		width: 100%;
+	}
+	
+	.header .lang-menu {
+		display: none;
+	}
+	
+	.intro {
+		padding: 0px;
+		text-align: center;
+		width: 100%;
+	}
+	.intro h1 {
+		font-size: 24px;
+	}
+	.intro p {
+		font-size: 14px;
+	}
+	
+	.social {
+		display: none;
+	}
+	
+	.bookmakers {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.sites {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.best-choice {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.glossary {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.guide {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	
+	.bookmakers h3 {
+		font-size: 22px;
+	}
+	.sites h3 {
+		font-size: 22px;
+	}
+	.best-choice h3 {
+		font-size: 22px;
+	}
+	.glossary h3 {
+		font-size: 22px;
+	}
+	.guide h3 {
+		font-size: 22px;
+	}
+	
+	.bookmakers .btn{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.glossary .btn{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.guide .btn{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	
+	.bookmakers .bookmakers-list li {
+		width: 100%;
+	}
+	.sites .sites-list li{
+		width: 100%;
+	}
+	
+	.best-choice .logo-list li {
+	    width: 50%;
+	    height: 80px;
+	    display: inline-block;
+	    float: left;
+	    padding: 25px 20px;
+	    border: none;
+	}
+	.best-choice .logo-list li a img {
+	    margin: auto;
+	}
+	.bookmaker-single-header {
+		padding: 40px 0;
+	}
+	.bookmaker-single-header img {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+	.bookmaker-single-header .btn {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+	.bookmaker-single-rating {
+		padding: 40px 0;
+	}
+	.bookmaker-single-rating .btn {
+		width: 100%;
+	}
+	.bookmaker-single-rating .rating ul li {
+		width: 100%;
+	}
+	.bookmaker-single-slider {
+		padding: 40px 0;
+	}
+	.bookmaker-single-slider p{
+		padding-bottom: 20px;
+	}
+	
+	.accordion-list .link span {
+		display: none;
+	}
+	
+	.content .bookmaker-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .bookmaker-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.content .bonus-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .bonus-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.content .article-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .article-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+	
+	.content .site-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .site-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.content .complaint-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .complaint-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.content .review-header div {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.content .review-header .btn {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.content .review .review-footer ul li {
+		width: 100%;
+	}
+	.accordion .accordion-list .submenu .list {
+	width: 50%;
+	}
+	
+}

@@ -1,0 +1,43 @@
+ul{
+    margin-top: 70px;
+list-style-type:none;
+    line-height: 30px;
+}
+li a{
+    color: #abb1b9;
+    text-decoration: none;
+}
+li a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+li{
+    font-family: Source Sans Pro,sans-serif;
+        color: #474a4e;
+}
+.john{
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+}
+#bella{
+    background-color: #212b36;
+    height: 450px;
+}
+.fa{
+    color: white;
+}
+.inline li{
+    display: inline;
+    padding-left: 8px;
+   
+}
+.inline{
+     margin-top: 93px;
+}
+.col-md-2{
+    padding-left: 80px;
+}
+.col-md-4{
+    padding-left: 70px;
+}

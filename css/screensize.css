@@ -1,0 +1,144 @@
+#c1{
+   border: 1px solid;
+    height: 50px;
+    padding-top: 14px;  
+}
+#c1 a:hover{
+    text-decoration: none;
+     color: #337ab7;
+}
+#c2{
+    border: 1px solid;
+    padding-left: 2px;
+     height: 50px;
+    padding-top: 14px;
+}
+#c2 a:hover{
+    text-decoration: none;
+     color: #337ab7;
+}
+#c3{
+   border: 1px solid;
+   padding-left: 0px;
+     height: 50px;
+    padding-top: 14px;
+}
+#c3 a:hover{
+    text-decoration: none;
+     color: #337ab7;
+}
+#c4{
+   border: 1px solid; 
+   padding-left: 2px;
+     height: 50px;
+    padding-top: 14px;
+}
+#c4 a:hover{
+    text-decoration: none;
+     color: #337ab7;
+}
+#c5{
+   border: 1px solid;
+    padding-left: 2px;
+     height: 50px;
+    padding-top: 14px;
+}
+#c5 a:hover{
+    text-decoration: none;
+     color: #337ab7;
+}
+#c6{
+   border: 1px solid;
+    padding-left: 5px;
+     height: 50px;
+    padding-top: 14px;
+}
+#c6 a:hover{
+    text-decoration: none;
+    color: #337ab7;
+}
+#c7{
+   border: 1px solid;
+     height: 50px;
+    padding-top: 14px;
+}
+#c8{
+  border: 1px solid;
+     height: 50px;
+    padding-top: 8px;
+    padding-left: 2px;
+}
+#c9{
+  border: 1px solid;
+     height: 50px;
+    padding-top: 8px;
+    padding-left: 5px;    
+}
+.btn{
+       padding: 6px 8px; 
+}
+.btn-rock{
+    background: #99c432;
+    color: #fff;
+}
+.btn-john{
+   background: #89b02c;
+    color: #fff;
+}
+.btn-john:hover{
+    color: white;
+}
+#c10{
+  border: 1px solid;
+     height: 50px;
+    padding-top: 8px;
+     padding-left: 15px;
+    display: inline-block; 
+}
+#c11{
+  border: 1px solid;
+     height: 50px;
+    padding-left: 6px;
+    padding-top: 8px;
+ 
+}
+.btn-brock{
+    color: #fff;
+  background-color: rgba(0,0,0,.4); 
+}
+#nadal{
+    height: 35px;
+    border: 1px solid #919191;
+    background: rgba(255,255,255,.1);
+    
+    transition: background-color .2s ease;
+}   
+#rafal{
+     height: 35px;
+    border: 1px solid #919191;
+    background: rgba(255,255,255,.1);
+    width: 210px;
+}  
+.btn-brock:hover{
+    color: #fff;
+}
+.btn-rock:hover{
+    color: #fff;
+}
+
+@media only screen and (min-width :1200px) {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

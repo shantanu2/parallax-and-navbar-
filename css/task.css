@@ -1,0 +1,43 @@
+.nakamura{
+   /* border: 1px solid;*/
+    height:100vh;
+    width:500px;
+    text-align: center;
+    padding-top: 150px;
+    background: linear-gradient(to right, #FF4600 ,#FFFFFF);
+	 opacity: 0.6;
+    /*background-color: rgba(0,0,0,.7);*/
+	z-index: 100;
+  position: relative;
+}
+.nakamura input[type=text], input[type=password] {
+    height: 44px;
+  font-size: 16px;
+  width: 60%;
+  margin-bottom: 10px;
+  -webkit-appearance: none;
+  background: #fff;
+  border: 1px solid #d9d9d9; 
+     box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+.nakamura input[type=submit] {
+   position: relative;
+  margin-bottom: 10px;
+    width: 30%;
+  height: 37px;
+}
+#map {
+       height: 100%;
+    width: 100%;
+    left: 0;
+    /*position: relative;*/
+    top: 0;
+	bottom: -200px;
+	 z-index: 0;
+	position: absolute;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
